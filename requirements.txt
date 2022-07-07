@@ -1,6 +1,6 @@
-rdkit-pypi
-pandas
-streamlit
+rdkit_pypi==2021.9.4
+pandas==1.3.5
+streamlit==1.8.1
 sklearn
 python-igraph
 mols2grid
